@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanaAlsuraihi
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning security+
+- 👀 I’m interested in Web Applications and Data analysis
+- 🌱 I’m currently learning Web Applications
 - 📫 How to reach me alsuraihisana@gmail.com
 
 <!---
